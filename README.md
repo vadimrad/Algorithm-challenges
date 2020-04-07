@@ -1,2 +1,2 @@
 # Algorithm challenges repository
-Repository with solved different types of algorithmic challenges
+Repository with different types of algorithmic challenges which was solved during study time.
